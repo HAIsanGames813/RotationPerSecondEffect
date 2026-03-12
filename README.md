@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="指定秒間回転" src="https://github.com/user-attachments/assets/24cd6110-0b3c-4d69-a58e-287569df3701" />
+
 # 指定秒間回転
 
 ## インストール
